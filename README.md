@@ -1,6 +1,6 @@
 # Elgreco
 
-TODO: Write a gem description
+About the Spainsh painter from Greece
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+in terminal bring type in elgreco
 
 ## Contributing
 
